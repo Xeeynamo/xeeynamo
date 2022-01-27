@@ -12,6 +12,7 @@ You will find some research and reverse engineering about commercial videogames 
 _All the projects here are hobby projects and they do not represent my skillset._
 
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
